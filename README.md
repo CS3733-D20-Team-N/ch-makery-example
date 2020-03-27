@@ -1,1 +1,1 @@
-# playground
+# playground for Software Engineering class
