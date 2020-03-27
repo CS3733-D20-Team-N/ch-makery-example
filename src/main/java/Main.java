@@ -1,5 +1,13 @@
 public class Main {
   public static void main(String[] args) {
-    System.out.println("We out here!");
+    System.out.println("Hey!");
+    NewClass.printSmth();
+  }
+}
+
+class NewClass {
+
+  static void printSmth() {
+    System.out.println("Printed out smth");
   }
 }
